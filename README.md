@@ -1,1 +1,4 @@
-# alexa_skill_weather_in_celsius_farhenheit
+Starting to learn how to create an alexa skill. 
+
+Dev plan (WIP):
+1) Create hello world tutorial 
